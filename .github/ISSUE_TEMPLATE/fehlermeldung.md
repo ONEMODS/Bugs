@@ -40,6 +40,14 @@ Wenn nötig, Screenshot anfügen, welche das Problem veranschaulichen.
  - Browser: [z.B. stock browser, Safari]
  - Browser-Version: [z.B. 22]
 
+### Gameserver: GTA 5 Life
+
+- Betriebssystem: [z.B. Windows]
+- Voice-Plugin-Version: [z.B. 1.5.4]
+- CPU: [z.B. Intel Core i7-6700k]
+- GPU: [z.B. Nvidia RTX 2080Ti]
+- Ram: [z.B. 16GB]
+
 ### Weitere Informationen
 
 Weitere Informationen über das Problem, wenn vorhanden.
