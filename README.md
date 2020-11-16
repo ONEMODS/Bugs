@@ -5,7 +5,7 @@
 
 <hr>
 
-# Bugs
+# ONEMODS Bugtracker
 Bugtracking for the ONEMODS ressources
 
 ## Meldung einsenden
