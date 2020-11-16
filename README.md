@@ -13,7 +13,7 @@
 <hr>
 
 # ONEMODS Bugtracker
-Bugtracking for the ONEMODS ressources
+Hier können Fehlermeldungen und Featurerequests für die ONEMODS Projekte eingesendet werden.
 
 ## Meldung einsenden
 <ol>
