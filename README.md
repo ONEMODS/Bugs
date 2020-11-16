@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-<img alt="Bitbucket open issues" src="https://img.shields.io/bitbucket/issues-raw/onemods/bugs">
-<img alt="Bitbucket open issues" src="https://img.shields.io/bitbucket/issues/onemods/bugs">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/onemods/bugs?label=Offen">
+<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/onemods/bugs?label=Geschlossen">
 <img alt="Website" src="https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fonemods.de">
 <img alt="Website" src="https://img.shields.io/website?down_message=offline&label=rootserver&up_message=online&url=http%3A%2F%2Fg1.onemods.de">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/onemodsde?label=ONEMODSde&style=social">
