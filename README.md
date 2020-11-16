@@ -2,8 +2,11 @@
   <img src="https://avatars1.githubusercontent.com/u/74563488?s=200&v=4">
 </p>
 
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/ONEMODS/Bugs)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/ONEMODS/Bugs)
+<p align="center">
+<img alt="Bitbucket open issues" src="https://img.shields.io/bitbucket/issues-raw/onemods/bugs">
+<img alt="Bitbucket open issues" src="https://img.shields.io/bitbucket/issues/onemods/bugs">
+<img alt="Website" src="https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fonemods.de">
+</p>
 
 <hr>
 
