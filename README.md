@@ -6,6 +6,7 @@
 <img alt="Bitbucket open issues" src="https://img.shields.io/bitbucket/issues-raw/onemods/bugs">
 <img alt="Bitbucket open issues" src="https://img.shields.io/bitbucket/issues/onemods/bugs">
 <img alt="Website" src="https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fonemods.de">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/onemodsde?label=ONEMODSde&style=social">
 </p>
 
 <hr>
