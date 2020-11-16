@@ -1,4 +1,6 @@
-<img align="center" src="https://avatars1.githubusercontent.com/u/74563488?s=200&v=4">
+<p align="center">
+  <img src="https://avatars1.githubusercontent.com/u/74563488?s=200&v=4">
+</p>
 
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/ONEMODS/Bugs)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/ONEMODS/Bugs)
