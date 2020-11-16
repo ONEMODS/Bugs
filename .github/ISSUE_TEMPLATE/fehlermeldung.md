@@ -7,6 +7,10 @@ assignees: BlueStrike3307
 
 ---
 
+### Um welche Ressource handelt es sich?
+
+Bitte nenne, auf was sich dein report bezieht, z.B. GTA RP Server, Forum, Website, Teamspeak
+
 ### Beschreibe den Fehler
 
 Eine klare und knappe Beschreibung, um welchen Fehler es sich handelt.
